@@ -1,5 +1,4 @@
 # server-deployment-practice
-# server-deployment-practice
 ### Heroku app link:  
 [https://saeed-server-deploy-prod.herokuapp.com/](https://saeed-server-deploy-prod.herokuapp.com/)  
 ### GitHub actions link:
