@@ -7,7 +7,7 @@ app.get('/',(req,res)=>{
     res.send('Hello World');
 });
 app.get('/bad',(req,res)=>{
-    throw new Error('something went wrong lenak 7remeh');
+    throw new Error('something went wrong');
 });
 app.use('*',notFoundHandler);
 app.use(errorHandler);
